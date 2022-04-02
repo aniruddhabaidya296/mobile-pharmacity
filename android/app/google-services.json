@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "739568350740",
+    "project_id": "pharmacity10172021",
+    "storage_bucket": "pharmacity10172021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739568350740:android:df0f9404ee9bf8a17dd901",
+        "android_client_info": {
+          "package_name": "com.binarylabs.pharmacity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739568350740-ls24e2caclgn7pfml354pjbb6ir56rf1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.binarylabs.pharmacity",
+            "certificate_hash": "05905844f576fb82a994e8ba0e3245b88e8b1152"
+          }
+        },
+        {
+          "client_id": "739568350740-6hd267hvcv0bj3tkb522h100icr94vg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWew6a2N2jzUM8qDlBr4ZkJPzraiATvN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739568350740-6hd267hvcv0bj3tkb522h100icr94vg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

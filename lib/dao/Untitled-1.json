@@ -1,0 +1,256 @@
+{
+    "docs": [
+        {
+            "category": [
+                "baby",
+                "men"
+            ],
+            "available": true,
+            "_id": "60d4b3b4ebc739fa8bd4786b",
+            "name": "Tansukh Vriddhivadhika Vati",
+            "packSizeLabel": "bottle of 10 gm Tablet",
+            "price": 95,
+            "skuId": 499648,
+            "packSize": 1
+        },
+        {
+            "category": [
+                "men",
+                "skin"
+            ],
+            "available": true,
+            "_id": "60d4b3b4ebc739fa8bd47fb0",
+            "name": "Nivea Men Shower Gel Pure Impact",
+            "packSizeLabel": "bottle of 250 ml Gel",
+            "price": 199,
+            "skuId": 568750,
+            "packSize": 1
+        },
+        {
+            "category": [
+                "men"
+            ],
+            "available": true,
+            "_id": "60d4b3b4ebc739fa8bd48011",
+            "name": "Afflatus Laboob Kabir",
+            "packSizeLabel": "jar of 125 gm Powder",
+            "price": 325,
+            "skuId": 531621,
+            "packSize": 1
+        },
+        {
+            "category": [
+                "men"
+            ],
+            "available": true,
+            "_id": "60d4b3b4ebc739fa8bd48035",
+            "name": "Dr Chopra Testmax Capsule",
+            "packSizeLabel": "bottle of 60 capsules",
+            "price": 2000,
+            "skuId": 531400,
+            "packSize": 60
+        },
+        {
+            "category": [
+                "men"
+            ],
+            "available": true,
+            "_id": "60d4b3b4ebc739fa8bd4803e",
+            "name": "Notty Boy Condoms (10 Each) Honeymoon Combo",
+            "packSizeLabel": "combo pack of 7 Packs",
+            "price": 1260,
+            "skuId": 549940,
+            "packSize": 7
+        },
+        {
+            "category": [
+                "men"
+            ],
+            "available": true,
+            "_id": "60d4b3b4ebc739fa8bd48057",
+            "name": "The Real Man Beard Wash & Conditioner",
+            "packSizeLabel": "pump bottle of 200 ml Conditioner",
+            "price": 400,
+            "skuId": 647010,
+            "packSize": 1
+        },
+        {
+            "category": [
+                "men"
+            ],
+            "available": true,
+            "_id": "60d4b3b4ebc739fa8bd4805d",
+            "name": "Ustraa Beard Growth Oil Advanced",
+            "packSizeLabel": "bottle of 60 ml Oil",
+            "price": 699,
+            "skuId": 619279,
+            "packSize": 1
+        },
+        {
+            "category": [
+                "men"
+            ],
+            "available": true,
+            "_id": "60d4b3b4ebc739fa8bd48065",
+            "name": "Luxurious Ayurvedic Gold Beard Oil Silicone Free",
+            "packSizeLabel": "pump bottle of 50 ml Oil",
+            "price": 715,
+            "skuId": 625754,
+            "packSize": 1
+        },
+        {
+            "category": [
+                "men"
+            ],
+            "available": true,
+            "_id": "60d4b3b4ebc739fa8bd480f1",
+            "name": "Bakson's Sunny Fairness Cream for Men",
+            "packSizeLabel": "tube of 100 gm Cream",
+            "price": 150,
+            "skuId": 367925,
+            "packSize": 1
+        },
+        {
+            "category": [
+                "men"
+            ],
+            "available": true,
+            "_id": "60d4b3b4ebc739fa8bd48115",
+            "name": "LP 622 Athletic Supporter Medium White",
+            "packSizeLabel": "packet of 1 Unit",
+            "price": 465,
+            "skuId": 331176,
+            "packSize": 1
+        },
+        {
+            "category": [
+                "men"
+            ],
+            "available": true,
+            "_id": "60d4b3b4ebc739fa8bd48158",
+            "name": "Vyas Dhatupaushtik Churna",
+            "packSizeLabel": "bottle of 100 gm Churna",
+            "price": 175,
+            "skuId": 498226,
+            "packSize": 1
+        },
+        {
+            "category": [
+                "men"
+            ],
+            "available": true,
+            "_id": "60d4b3b4ebc739fa8bd48208",
+            "name": "The Real Man Beard Oil Maple Mint",
+            "packSizeLabel": "bottle of 30 ml Oil",
+            "price": 400,
+            "skuId": 647058,
+            "packSize": 1
+        },
+        {
+            "category": [
+                "men"
+            ],
+            "available": true,
+            "_id": "60d4b3b4ebc739fa8bd48219",
+            "name": "The Real Man Beard Oil Lavender",
+            "packSizeLabel": "bottle of 30 ml Oil",
+            "price": 400,
+            "skuId": 647055,
+            "packSize": 1
+        },
+        {
+            "category": [
+                "men"
+            ],
+            "available": true,
+            "_id": "60d4b3b4ebc739fa8bd4821e",
+            "name": "The Real Man Beard Cream",
+            "packSizeLabel": "jar of 50 gm Cream",
+            "price": 400,
+            "skuId": 646998,
+            "packSize": 1
+        },
+        {
+            "category": [
+                "men"
+            ],
+            "available": true,
+            "_id": "60d4b3b4ebc739fa8bd48363",
+            "name": "Dr. Reckeweg R19 Glandular Drops for Men",
+            "packSizeLabel": "bottle of 22 ml Drop",
+            "price": 250,
+            "skuId": 327102,
+            "packSize": 1
+        },
+        {
+            "category": [
+                "men",
+                "skin"
+            ],
+            "available": true,
+            "_id": "60d4b3b4ebc739fa8bd48404",
+            "name": "Nivea All-In-1 Face Wash Charcoal 10X Vitamin C Detoxifies and Refreshes Skin",
+            "packSizeLabel": "tube of 100 gm Face Wash",
+            "price": 250,
+            "skuId": 568818,
+            "packSize": 1
+        },
+        {
+            "category": [
+                "men"
+            ],
+            "available": true,
+            "_id": "60d4b3b4ebc739fa8bd47fb2",
+            "name": "Purayati Multivitamin for Senior Men Vegetarian Tablet",
+            "packSizeLabel": "bottle of 90 tablets",
+            "price": 575,
+            "skuId": 505486,
+            "packSize": 90
+        },
+        {
+            "category": [
+                "men"
+            ],
+            "available": true,
+            "_id": "60d4b3b4ebc739fa8bd4813a",
+            "name": "Bakson's Homoeopathic Formula P Tablet",
+            "packSizeLabel": "bottle of 75 tablets",
+            "price": 185,
+            "skuId": 502901,
+            "packSize": 75
+        },
+        {
+            "category": [
+                "men"
+            ],
+            "available": true,
+            "_id": "60d4b3b4ebc739fa8bd4826b",
+            "name": "Meghdoot Kamratna Ayurvedic Medicated Oil",
+            "packSizeLabel": "bottle of 50 ml Oil",
+            "price": 280,
+            "skuId": 606517,
+            "packSize": 1
+        },
+        {
+            "category": [
+                "men"
+            ],
+            "available": true,
+            "_id": "60d4b3b4ebc739fa8bd48328",
+            "name": "Man Arden 7X Beard Oil Spearmint",
+            "packSizeLabel": "bottle of 30 ml Oil",
+            "price": 399,
+            "skuId": 486041,
+            "packSize": 1
+        }
+    ],
+    "totalDocs": 331,
+    "limit": 20,
+    "totalPages": 17,
+    "page": 1,
+    "pagingCounter": 1,
+    "hasPrevPage": false,
+    "hasNextPage": true,
+    "prevPage": null,
+    "nextPage": 2
+}
